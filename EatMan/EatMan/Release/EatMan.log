@@ -1,0 +1,214 @@
+﻿  Board.cpp
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Board.cpp(4,15): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Board.cpp(5,15): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Board.cpp(21,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Board.cpp(141,19): warning C4244: 'argument' : conversion de 'float' en 'sf::Uint8', perte possible de données
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Board.cpp(140,19): warning C4244: 'argument' : conversion de 'float' en 'sf::Uint8', perte possible de données
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Board.cpp(139,19): warning C4244: 'argument' : conversion de 'float' en 'sf::Uint8', perte possible de données
+  Bullet.cpp
+  Button.cpp
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Button.cpp(42,37): warning C4244: '=' : conversion de 'T' en 'int', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Button.cpp(43,35): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Button.cpp(43,24): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Button.cpp(44,26): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Button.cpp(44,20): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Button.cpp(52,79): warning C4244: 'argument' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+  Character.cpp
+  EatMan.cpp
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\EatMan.cpp(13,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Enemy.cpp
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Enemy.cpp(24,36): warning C4244: 'argument' : conversion de 'float' en 'unsigned int', perte possible de données
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Enemy.cpp(117,59): warning C4244: 'argument' : conversion de 'float' en 'sf::Uint8', perte possible de données
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Enemy.cpp(117,43): warning C4244: 'argument' : conversion de 'float' en 'sf::Uint8', perte possible de données
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Enemy.cpp(117,27): warning C4244: 'argument' : conversion de 'float' en 'sf::Uint8', perte possible de données
+  Game.cpp
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Game.cpp(7,58): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Game.cpp(7,37): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Game.cpp(43,78): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Game.cpp(43,48): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Game.cpp(50,66): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Game.cpp(55,58): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Game.cpp(55,33): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Game.cpp(61,93): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Game.cpp(61,58): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Game.cpp(225,18): warning C4244: 'argument' : conversion de 'float' en 'sf::Uint8', perte possible de données
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Game.cpp(224,18): warning C4244: 'argument' : conversion de 'float' en 'sf::Uint8', perte possible de données
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Game.cpp(420,102): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Game.cpp(423,22): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Game.cpp(448,90): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Game.cpp(470,6): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Game.cpp(490,28): warning C4244: '+=' : conversion de 'float' en 'int', perte possible de données
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Game.cpp(492,98): warning C4244: 'argument' : conversion de 'float' en 'sf::Uint8', perte possible de données
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Game.cpp(492,69): warning C4244: 'argument' : conversion de 'float' en 'sf::Uint8', perte possible de données
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Game.cpp(492,40): warning C4244: 'argument' : conversion de 'float' en 'sf::Uint8', perte possible de données
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Game.cpp(536,100): warning C4244: 'argument' : conversion de 'float' en 'sf::Uint8', perte possible de données
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Game.cpp(536,71): warning C4244: 'argument' : conversion de 'float' en 'sf::Uint8', perte possible de données
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Game.cpp(536,42): warning C4244: 'argument' : conversion de 'float' en 'sf::Uint8', perte possible de données
+  InstantText.cpp
+  Menu.cpp
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Menu.cpp(32,51): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Menu.cpp(32,30): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Menu.cpp(33,51): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Menu.cpp(33,30): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Menu.cpp(34,51): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Menu.cpp(34,30): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Menu.cpp(38,73): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Menu.cpp(38,44): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Menu.cpp(41,44): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Menu.cpp(44,77): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Menu.cpp(44,44): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Menu.cpp(47,68): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Menu.cpp(47,47): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Menu.cpp(48,68): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Menu.cpp(48,43): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Menu.cpp(49,70): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Menu.cpp(49,45): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Menu.cpp(56,69): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Menu.cpp(56,40): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Menu.cpp(106,20): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Menu.cpp(152,18): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Particles.cpp
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Particles.cpp(32,58): warning C4244: 'argument' : conversion de 'float' en 'sf::Uint8', perte possible de données
+  Player.cpp
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Player.cpp(58,67): warning C4244: 'argument' : conversion de 'float' en 'sf::Uint8', perte possible de données
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Player.cpp(58,45): warning C4244: 'argument' : conversion de 'float' en 'sf::Uint8', perte possible de données
+  Utilities.cpp
+  Génération de code en cours
+D:\Cpp\Eatman\Eatman\EatMan\EatMan\Enemy.cpp(137): warning C4715: 'Enemy::Wound' : les chemins de contrôle ne retournent pas tous une valeur
+  835 of 843 functions (99.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  EatMan.vcxproj -> D:\Cpp\Eatman\Eatman\EatMan\Release\EatMan.exe
